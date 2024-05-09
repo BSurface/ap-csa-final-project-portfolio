@@ -7,6 +7,7 @@
 > I used a couple of YouTube videos to get the projectile and player movement system down, as well as the Unity engine to create my game.
 
 ### Screenshots or Code
-
+> *No screenshots available due to data wipe on computer*
 
 ### Link or Code
+> *No code or link available due to data wipe on computer*
