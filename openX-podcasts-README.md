@@ -5,7 +5,7 @@
 ### Technologies or Tools Used
 > I created a list of sources referenced for each podcast, and for my ethical hacking podcast, I created a simple website to showcase the audio and transcript using HTML and CSS through Github. For my flashback podcast, I used Soundtrap to edit and lay music over my script.
 ### Screenshots or Code
->
+![Ouya Flashback Podcast Screenshot](images/ouyaPodcastScreenshot.jpg)
 ### Link or Code
 #### Ethical Hacking Podcast Website:
 https://balin-surface--splendorous-kashata-83d12f.netlify.app/
