@@ -7,4 +7,16 @@
 ### Screenshots or Code
 >
 ### Link or Code
->
+#### Ethical Hacking Podcast Website:
+https://balin-surface--splendorous-kashata-83d12f.netlify.app/
+
+#### Ethical Hacking Podcast index.html
+https://github.com/BSurface/bsurface/blob/2d86550051002f363449d1b54467955e93af1080/index.html
+
+#### Ethical Hacking Podcast style.css
+https://github.com/BSurface/bsurface/blob/2d86550051002f363449d1b54467955e93af1080/index.css
+
+#### Ouya Flashback Podcast:
+
+
+
