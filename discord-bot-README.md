@@ -4,7 +4,7 @@
 ### Technologies and Tools Used
   > I used Chat-GPT's built-in API, as well as Python in VSCode to construct my bot. Additionally, I used Discord's bot initialization to get Surface Bot running within the Thunderdome server.
 ### Screenshots or Code Snippets
-  > 
+![Discord Bot Screenshot](/relative/path/to/discordbotScreenshot.png?raw=true)
 ### Link or Code
 #### Discord_Bot README
 https://github.com/BSurface/Discord_Bot/blob/f5d467e4cbddca5ede9333320d2f606862963ee7/README.md
