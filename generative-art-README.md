@@ -10,3 +10,11 @@
 >
 
 ### Link or Code
+#### index.html
+https://github.com/BSurface/Generative-Art/blob/eea2fd335c0ca8dff488cf057935bdce86a5a544/index.html
+
+#### style.css
+https://github.com/BSurface/Generative-Art/blob/eea2fd335c0ca8dff488cf057935bdce86a5a544/style.css
+
+#### Full Generative Art Code:
+https://github.com/BSurface/Generative-Art/blob/eea2fd335c0ca8dff488cf057935bdce86a5a544/thisistheproblemwithsociety.js
